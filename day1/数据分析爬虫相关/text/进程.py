@@ -20,4 +20,5 @@ def main():
         i.join()
 
 
+print('到此一游~~')
 main()
